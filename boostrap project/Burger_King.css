@@ -1,0 +1,545 @@
+p{
+    background: #f5ebdc;
+}
+.button{
+    left: 20px;
+}
+.navbar-inverse{
+    top: 5px;
+    width: 600px;
+    background-color: #f5ebdc;
+    border-color: #f5ebdc;
+}
+.nav.navbar-nav a{
+    font-weight: bold;
+
+}
+.button{
+    position: absolute;
+    left: 1420px;
+    top: 22px;
+    border-radius: 90px;
+    width: 100px;
+    height: 30px;
+    background-color: #d62300;
+    color: #fcffff;
+    font-weight: bold;
+    border-style: hidden;
+}
+.button2{
+    position: absolute;
+    left: 1535px;
+    top: 22px;
+    height: 30px;
+    border-radius: 90px;
+    width: 110px;
+    background-color: #502314;
+    color: #f5ebdc;
+    font-weight: bold;
+    border-style: hidden;
+}
+.dropdown-menu{
+    background-color: #f5ebdc;
+}
+.dropdown-menu a{
+    font-family: sans-serif;
+}
+.burger {
+    position: absolute;
+    left: 810px;
+    top: 5px;
+    width: 45px;
+    height: 50px;
+}
+.Top-bar{
+    position: fixed;
+    z-index: 1;
+    background-color: #f5ebdc;
+    height: 56px;
+    width: 2000px;
+
+}
+.burger-img1{
+    position: absolute;
+    top: 200px;
+    height: 280px;
+    width: 560px;
+    left: 260px;
+}
+.burger-img2{
+    position: absolute;
+    top: 200px;
+    height: 280px;
+    width: 560px;
+    left: 850px;
+}
+.burger-img3{
+    position: absolute;
+    top: 680px;
+    height: 280px;
+    width: 560px;
+    left: 260px;
+}
+.burger-img4{
+    position: absolute;
+    top: 680px;
+    height: 280px;
+    width: 560px;
+    left: 850px;
+}
+.burger-1{
+    position: absolute;
+    top: 480px;
+    left: 260px;
+    width: 560px;
+    height: 140px;
+    background-color: white;
+}
+.burger1-head{
+    font-size: 18px;
+    font-family: "Cooper Black";
+    color: #502314;
+    margin-left: 8px;
+}
+.burger1-body{
+    font-size: 13px;
+    color: #502314;
+    width: 402px;
+    height: 40px;
+    margin-left: 8px;
+}
+
+
+.burger-2{
+    position: absolute;
+    top: 480px;
+    left: 850px;
+    width: 560px;
+    height: 140px;
+    background-color: white;
+}
+.burger2-head{
+    font-size: 18px;
+    font-family: "Cooper Black";
+    color: #502314;
+    width: 332px;
+    height: 60px;
+    margin-left: 8px;
+}
+.burger2-body{
+    font-size: 13px;
+    width: 332px;
+    height: 40px;
+    color: #502314;
+    margin-left: 8px;
+}
+.burger-3{
+    position: absolute;
+    top: 960px;
+    left: 260px;
+    width: 560px;
+    height: 140px;
+    background-color: white;
+}
+.burger3-head{
+    font-size: 18px;
+    font-family: "Cooper Black";
+    color: #502314;
+    margin-left: 8px;
+}
+.burger3-body{
+    font-size: 13px;
+    color: #502314;
+    width: 402px;
+    height: 40px;
+    margin-left: 8px;
+}
+
+.burger-4{
+    position: absolute;
+    top: 960px;
+    left: 850px;
+    width: 560px;
+    height: 140px;
+    background-color: white;
+}
+.burger4-head{
+    font-size: 18px;
+    font-family: "Cooper Black";
+    color: #502314;
+    margin-left: 8px;
+}
+.burger4-body{
+    font-size: 13px;
+    color: #502314;
+    width: 402px;
+    height: 40px;
+    margin-left: 8px;
+}
+.buttonlt{
+    position: absolute;
+    left: 690px;
+    top: 560px;
+    border-radius: 90px;
+    width: 102px;
+    height: 48px;
+    font-size: 18px;
+    border-color: #d62300;
+    background-color: white;
+    font-family: "Cooper Black";
+    color: #d62300;
+}
+.buttonrt{
+    position: absolute;
+    left: 1220px;
+    top: 560px;
+    border-radius: 90px;
+    width: 172px;
+    height: 48px;
+    font-size: 18px;
+    border-color: #d62300;
+    background-color: white;
+    font-family: "Cooper Black";
+    color: #d62300;
+}
+.buttonlb{
+    position: absolute;
+    left: 630px;
+    top: 1050px;
+    border-radius: 90px;
+    width: 160px;
+    height: 48px;
+    font-size: 18px;
+    border-color: #d62300;
+    background-color: white;
+    font-family: "Cooper Black";
+    color: #d62300;
+}
+.buttonrb{
+    position: absolute;
+    left: 1220px;
+    top: 1050px;
+    border-radius: 90px;
+    width: 172px;
+    height: 48px;
+    font-size: 18px;
+    border-color: #d62300;
+    background-color: white;
+    font-family: "Cooper Black";
+    color: #d62300;
+}
+.phone{
+    position: absolute;
+    top: 1200px;
+    left: 360px;
+    width: 480px;
+    height: 636px;
+}
+.fill{
+    position: absolute;
+    top: 1300px;
+    width: 900px;
+    height: 489px;
+    background-color: #efe1cc;
+}
+
+.fill-2{
+    position: absolute;
+    top: 1300px;
+    left: 900px;
+    width: 813px;
+    height: 489px;
+    background-color: #efe1cc;
+}
+.phone-text{
+    position: relative;
+    top: 30px;
+    font-size: 32px;
+    color: #502314;
+    font-weight: bold;
+    font-family: "Cooper Black";
+}
+.phone-text2{
+    position: relative;
+    top: 20px;
+    font-size: 32px;
+    color: #502314;
+    font-weight: bold;
+    font-family: "Cooper Black";
+    width: 316px;
+    height: 36px;
+}
+.phone-text3{
+    position: relative;
+    width: 439px;
+    height: 80px;
+    top: 100px;
+}
+.apple{
+    position: relative;
+    top: 85px;
+    width: 153px;
+    height: 80px;
+    left: -10px;
+}
+.google{
+    position: relative;;
+    top: 73px;
+    left: 30px;
+    width: 153px;
+    height: 60px;
+}
+.fill-3{
+    position: absolute;
+    width: 1710px;
+    height: 552px;
+    top: 1789px;
+    background-color: #2b0200;
+}
+.info{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    font-weight: bold;
+    color: #f5ebdc;
+}
+.mybk{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    font-weight: bold;
+    color: #f5ebdc;
+}
+.careers{
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    font-weight: bold;
+    color: #f5ebdc;
+}
+.cares{
+    position: absolute;
+    left: 1200px;
+    top: 50px;
+    font-weight: bold;
+    color: #f5ebdc;
+}
+.ending{
+    position: absolute;
+    top: 375px;
+    left: 105px;
+    font-weight: bold;
+    color: #f5ebdc;
+}
+.line{
+    position: relative;
+    top: 360px;
+    width: 1450px;
+    height: 1px;
+    left: 100px;
+    background-color: #bba391;
+}
+.a1{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: #bba383;
+}
+.a2{
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: #bba383;
+}
+.a3{
+    position: absolute;
+    top: 140px;
+    left: 100px;
+    color: #bba383;
+}
+.a4{
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    color: #bba383;
+}
+.a5{
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    color: #bba383;
+}
+.a6{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: #bba383;
+}
+.a7{
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    color: #bba383;
+}
+.a8{
+    position: absolute;
+    top: 240px;
+    left: 100px;
+    color: #bba383;
+}
+.a9{
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    color: #bba383;
+}
+.b1{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    color: #bba383;
+}
+.b2{
+    position: absolute;
+    top: 120px;
+    left: 500px;
+    color: #bba383;
+}
+.b3{
+    position: absolute;
+    top: 140px;
+    left: 500px;
+    color: #bba383;
+}
+.b4{
+    position: absolute;
+    top: 160px;
+    left: 500px;
+    color: #bba383;
+}
+.c1{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    color: #bba383;
+}
+.c2{
+    position: absolute;
+    top: 120px;
+    left: 800px;
+    color: #bba383;
+}
+.c3{
+    position: absolute;
+    top: 140px;
+    left: 800px;
+    color: #bba383;
+}
+.d1{
+    position: absolute;
+    top: 100px;
+    left: 1200px;
+    color: #bba383;
+}
+.d2{
+    position: absolute;
+    top: 120px;
+    left: 1200px;
+    color: #bba383;
+}
+.d3{
+    position: absolute;
+    top: 140px;
+    left: 1200px;
+    color: #bba383;
+}
+.d4{
+    position: absolute;
+    top: 160px;
+    left: 1200px;
+    color: #bba383;
+}
+.d5{
+    position: absolute;
+    top: 180px;
+    left: 1200px;
+    color: #bba383;
+}
+.d6{
+    position: absolute;
+    top: 200px;
+    left: 1200px;
+    color: #bba383;
+}
+.d7{
+    position: absolute;
+    top: 220px;
+    left: 1200px;
+    color: #bba383;
+}
+.d8{
+    position: absolute;
+    top: 240px;
+    left: 1200px;
+    color: #bba383;
+}
+.d9{
+    position: absolute;
+    top: 260px;
+    left: 1200px;
+    color: #bba383;
+}
+.policy{
+    position: absolute;
+    top: 440px;
+    left: 100px;
+    color: #bba383;
+}
+.terms{
+    position: absolute;
+    top: 440px;
+    left: 180px;
+    color: #bba383;
+}
+.access{
+    position: absolute;
+    top: 440px;
+    left: 310px;
+    color: #bba383;
+}
+.contact{
+    position: absolute;
+    top: 440px;
+    left: 410px;
+    color: #bba383;
+}
+.copyright{
+    position: absolute;
+    top: 470px;
+    left: 100px;
+    color: #bba383;
+}
+.line1{
+    position: absolute;
+    top: 435px;
+    height: 30px;
+    width: 1px;
+    left: 165px;
+    color: #bba383;
+}
+.line2{
+    position: absolute;
+    top: 435px;
+    height: 30px;
+    width: 1px;
+    left: 295px;
+    background-color: #bba391;
+}
+.line3{
+    position: absolute;
+    top: 435px;
+    height: 30px;
+    width: 1px;
+    left: 400px;
+    background-color: #bba391;
+}
